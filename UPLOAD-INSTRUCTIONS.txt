@@ -1,0 +1,1 @@
+GitHub Pages 上传：删除旧的巨大 index.html 后，把本文件夹里的所有文件一起上传到仓库根目录。index.html 必须与 bgm.mp3、image-xx.jpg/png 在同一级目录。不要上传 zip 本身。
